@@ -1,0 +1,10 @@
+torch
+torchvision
+torch-geometric
+numpy
+scikit-learn
+networkx
+tqdm
+matplotlib
+uvicorn
+fastapi
